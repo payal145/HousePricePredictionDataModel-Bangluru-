@@ -1,1 +1,1 @@
-Predicting housing prices using bengaluru house price dataset from kaggle using simple linear regression algorith
+The goal is to build a regression model to forecast the price of houses. The dataset is pre-processed by analysing the missing values. The various Regression algorithms are used to predict the price of housing.
